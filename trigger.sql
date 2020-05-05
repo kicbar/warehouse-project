@@ -5,7 +5,7 @@
     1.0.05/05    05/05/2020   b.kicior   Create. 
     */
 CREATE OR REPLACE TRIGGER update_warhouse
-BEFORE  INSERT ON WAREHOUSE_HALA
+BEFORE  INSERT ON WAREHOUSE
 FOR EACH ROW
 BEGIN
     /*Obliczenie pola powierzchni*/
