@@ -1,5 +1,5 @@
     /*
-    Create sequence and table.
+    Table need for store date.
     ------------------------------------------------------------------------------------------------------
     VERSION      DATE         AUTHOR     DESCRIPTION
     1.0.05/05    05/05/2020   b.kicior   Create. 
