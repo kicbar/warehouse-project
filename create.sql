@@ -1,5 +1,5 @@
     /*
-    Table need for store date.
+    Table need for store data.
     ------------------------------------------------------------------------------------------------------
     VERSION      DATE         AUTHOR     DESCRIPTION
     1.0.05/05    05/05/2020   b.kicior   Create. 
